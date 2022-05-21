@@ -10,6 +10,8 @@
  */
 
 #include<iostream>
+#include<fstream>
+#include<string>
 #include<cstring>
 #include<windows.h>
 using namespace std;
@@ -22,17 +24,50 @@ void exit();
 void mainMenu();
 void thanksForPlaying();
 
+
 // Global variables:
 bool exitGame = false;
 
 // Game main function:
 int main() {
-	while (exitGame != true) {
-		cout << "This demo was developed by Johannes Ewers" << endl;
-		Sleep(7000);
-		system("cls");
-		mainMenu();
+	bool EULA = false;
+	ifstream f("EULA.txt");
+	char c;
+
+
+	if(f.is_open()){
+		cout << f.rdbuf();
 	}
+	cout << endl;
+	cout << "Do you accepting this EULA (Y/N)? By declining you cannot use this Program." << endl;
+	bool exitThisLoop = false;
+	while(exitThisLoop == false){
+		cin >> c;
+//		if(c == ('y' || 'Y')){
+		if(c == 'Y'){
+			EULA = true;
+			exitThisLoop = true;
+		}
+//		if(c == ('n' || 'N')){
+		else if(c == 'N'){
+			exitGame = true;
+			exitThisLoop = true;
+		}
+//		if(c != ('y' || 'Y' || 'n' || 'N')){
+		else{
+			cout << "The input is invalid! Please enter a valid input." << endl;
+		}
+	}
+
+	if(EULA == true){
+		while (exitGame != true) {
+			cout << "This demo was developed by Johannes Ewers" << endl;
+			Sleep(7000);
+			system("cls");
+			mainMenu();
+		}
+	}
+	else thanksForPlaying();
 
 	return 0;
 }
