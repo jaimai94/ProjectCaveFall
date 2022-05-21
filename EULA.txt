@@ -1,0 +1,151 @@
+End User License Agreement
+
+PLEASE READ THESE END USER LICENSE AGREEMENT ("EULA") CAREFULLY; UPON PLAYING THIS
+GAME SOFTWARE PROGRAM FOR PERSONAL COMPUTER (THE "PROGRAMM").
+
+This Agreement shall come into effect between Johannes M. Ewers (the "Author") and
+user(s) upon installation and/or use of the Program by the user.
+
+Those users between the age of 13 and 18 (or between 13 and the age of legal majority
+in your country of residence) or a person with limited capacity shall install and/or
+run the Programm only after obtaining approval from its parent or legal guardian who
+agrees to be bound by these provisions of EULA.
+
+1. Grant of Limited Rights
+	(1)	The Author shall grant a non-exclusive license to users who install the
+		Program to their own personal computer only for the purpose of playing the
+		game for its personal use under the condition that the users shall abide by
+		and comply with the provisions hereunder.
+	(2)	Users shall not sublicense the rights granted by the Author in the previous
+		clause under any and all circumstances to any other party.
+	(3)	Users agree and understand that rights granted in clause 1 of this Paragraph
+		is the proprietary right of the users who purchased or have Received
+		("Received" means installing and/or running the Program according to clause
+		1) the usage rights for the Program and shall not be assigned or transferred
+		to any third party under no circumstances.
+
+2. Addition or Modification to the Program
+	(1)	The Author may provide an additional or modified Program to change, modify,
+		expand functions, add contents and modify bugs. The provision in this EULA
+		shall also be applied to such additional or modified Program.
+	(2)	Such additional or modified Program shall be provided for free, unless the
+		Author decides to provided them with compensation.
+	(3)	The Author reserves the right, at its discretion, to provide an additional or
+		modified Program and the Author is not obligated to provide such additional
+		or modified Program to the users.
+
+3. Authentication
+	(1)	For the use of license management, when accessed for the first or following
+		times of activation, this game may access a server, etc. provided by a third
+		party besides the Author.
+	(2)	Upon usage of the Program, the users may need to login to the game platform
+		provided by any third party besides the Author for the first time of
+		activation or sometimes each and every time of activation.
+	(3)	The users shall comply with all applicable standard terms and conditions,
+		rules and regulations or any other matters provided by such third party when
+		using such Third Party Fulfillments ("3PF") in case of the previous
+		provision.
+	(4)	The Author will not take part in or responsible for the use of such 3PF by
+		the users, unless it is directly related to the usage of the Program. The
+		users shall contact those service providers that provide the 3PF, when they
+		need to contact anything related to the 3PF.
+	(5)	The Program may not be able to activate from country or territory other than
+		where the users purchased the Program when the users need to login to the 3PF
+		upon usage of the Program. In such case, users shall use the Program in the
+		designated country or territory where the Program has been purchased.
+
+4. Intellectual Property Rights
+	(1)	The intellectual property rights for the Program belongs to the Author or any
+		legitimate third party, and shall be protected under the German Copyright
+		Act, International Treaty, convention and any other applicable laws
+		(including in users' country of residence). Upon users failure to comply with
+		this EULA and violating applicable laws, including copyright and trademark
+		laws and applicable communications regulations ans statutes, the Author or
+		the owner of such intellectual property rights may file injunction, request
+		compensation of damage and take necessary legal means in order to protect
+		their rights.
+	(2)	This EULA is only for the purpose of granting the usage rights for the
+		programm from the Author to the users and any or whole part of the
+		intellectual property rights for the Program is not to be transferred or
+		assigned to the users.
+
+5. Prohibited Conduct
+The users shall be prohibited from doing the following acts upon usage of the
+program:
+	(1)	Any act which infringe the intellectual property rights of the Author such as
+		to copy (except for the purpose of installing the Program), modify, alter,
+		translate reverse engineer, decompile, disassemble, extract or otherwise
+		attempt to discover the source code of the Program or any part thereof,
+		except and only to the extent that this activity is expressly permitted by
+		the law of the user's country of residence. This clause expressly provides an
+		exception to the above actions if the source code of the Program is already
+		public and freely accessible.
+	(2)	To analyze the communication protocol or any other data used in the Program
+		and to use them for any other purpose, unless the source code of the Program
+		is already public and freely accessible.
+	(3)	Any commercial use of the Program or any part thereof in a internet cafe,
+		game arcade or any other place, without the prior written permission of the
+		Author.
+	(4)	Any commercial use of the Program or any part thereof to hold and provide an
+		event or a tournament (except for the personal use within the family, friends
+		or any other similar limited groups), without the prior written permission of
+		the Author.
+	(5)	To intentionally utilize such defects upon trouble or failure in the Program.
+	(6)	To interference with or disrupt the contents and functionality provided by
+		the Program or any service provided by the Program.
+	(7)	Any act corresponding to or similar to any of the acts which may be detriment
+		to the Author, as provided in each of the previous provision.
+
+6. Termination
+	(1)	The users may at any time terminate this EULA by uninstalling or deleting the
+		Program and the corresponding files from their personal computer.
+	(2)	The Author reserves the right, without notice and in their sole discretion,
+		to terminate the EULA upon (1) or any breach of the provisions provided
+		hereto. In such case the users shall immediately stop using the Program and
+		shall uninstall or delete the Program from their personal computer.
+
+7. Export Restrictions
+The users agree to comply with all applicable laws and regulations of Germany and any
+other applicable countries (including users' country of residence). The users agree
+not to export the Program to any country restricted and under embargo by the Author.
+
+8. Disclaimers; No Warranties
+	(1)	THE CONTENT AND MATERIALS CONTAINED IN THE PROGRAM ARE PROVIDED ON AN "AS IS"
+		BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, EXCEPT AS
+		EXPRESSLY PROVIDED TO THE CONTRARY IN A WRITING BY THE AUTHOR. THE AUTHOR
+		DISCLAIMS ALL OTHER WARRANTIES, STATUTORY, EXPRESS OR IMPLIED, INCLUDING, BUT
+		NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, SAFETYNESS OF THE
+		GAME, STABILITY OF THE MOVEMENT OR FITNESS FOR A PARTICULAR PURPOSE.
+	(2)	IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR
+		CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND CAUSED FROM USING THE
+		PROGRAM.
+	(3)	THE PREVIOUS PROVISION SHALL NOT BE APPLIED TO DAMAGES RESULTING FROM THE
+		AUTHOR'S WILLFULL INTENTION OR GROSS NEGLIGENCE. IN NO EVENT SHALL THE
+		AGGREGATE LIABILITY OF THE AUTHOR, ARISING OUT OF SUCH THE AUTHOR'S WILLFULL
+		INTENTION OR GROSS NEGLIGENCE EXCEED THE AMOUNT PAID BY THE USERS TO PURCHASE
+		THE PROGRAM.
+	(4)	BASED ON THE APPLICABLE LAWS AND REGULATIONS, IN ANY EVENT SUCH PREVIOUS
+		PROVISIONS ARE LIMITEDLY APPLIED, THE AUTHOR SHALL BE RELIEVIED OR
+		INDEMNIFIED FROM THE DAMAGES TO THE USERS, TO THE FULLEST EXTENT PERMITTED BY
+		APPLICABLE LAW.
+
+9. AMENDMENTS TO EULA
+	(1)	The Author may amend this EULA unilaterally at any time in its sole
+		discretion by displaying such amendment on the 3PF, official website or
+		within the game screen of the Program.
+	(2)	Notwithstanding the foregoing provision, if such amendment is detrimental to
+		the users, the Author shall take reasonable means such as displaying or
+		posting such amendment in advance.
+
+10. Miscellaneous
+	(1)	This EULA is governed and interpreted in all respects by the laws of Germany.
+	(2)	The users agree that all suits, actions or proceedings relating to this EULA
+		shall be finally settled and exclusively brought in a court responsible,
+		depending on the case, in North Rhine-Westphalia, as the court of first
+		jurisdiction.
+	(3)	If any provision of this EULA is held to be unlawful, void, or for any reason
+		unenforceable, then such provision will be eliminated from these provision to
+		the minimum extent necessary and will not affect the validity and
+		enforceability of any remaining provisions.
+
+Effective as of May 21, 2022
